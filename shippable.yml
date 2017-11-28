@@ -9,7 +9,7 @@ build:
     - echo 'true'
 
   ci:
-    - ./configure && make && make install
+    - gcc hello.c -o hello
     - ./hello
 
   post_ci:
