@@ -1,4 +1,5 @@
 ## sample_c
+[![Run Status](https://api.shippable.com/projects/5a1ccf129f19c90600647272/badge?branch=master)](https://app.shippable.com/github/EnfantT/sample_c)
 
 On the maintainer’s system:
 
